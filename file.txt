@@ -2,4 +2,8 @@ Added this file for testing purpose.
 This is currently in main branch
 This line is only in second repo for now
 Having a new merge in main confilict
+<<<<<<< HEAD
 this line is in both
+=======
+this line is in both files
+>>>>>>> main
